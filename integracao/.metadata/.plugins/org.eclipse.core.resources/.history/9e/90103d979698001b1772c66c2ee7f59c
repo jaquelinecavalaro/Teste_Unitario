@@ -1,0 +1,5 @@
+package com.contato.integracao.Repository;
+
+public class ContatoRepository {
+
+}
